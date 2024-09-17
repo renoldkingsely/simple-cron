@@ -1,0 +1,22 @@
+{
+  "name": "simple-cron",
+  "version": "1.0.0",
+  "description": "The Dynamic Cron Scheduler is a simple Node.js package for scheduling tasks using intuitive, natural language terms. This package allows developers to schedule recurring tasks or one-time events using easy-to-understand English phrases, removing the complexity of traditional cron syntax.",
+  "main": "scheduler.js",
+  "scripts": {
+    "test": "ng plain English such as \"every 5 minutes,\" \"on 5th of every month 22:30,\" or \"from 25th March 2024 22:00 to 26th March 2024 22:30.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "ble: Supports a wide range of scheduling scenarios including intervals, specific dates, and date ranges."
+  },
+  "keywords": [
+    "with",
+    "no",
+    "external",
+    "packages",
+    "required."
+  ],
+  "author": "renold kingsely",
+  "license": "ISC"
+}
