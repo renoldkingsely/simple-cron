@@ -17,7 +17,7 @@ To install the package, run:
 
 Install the package: 
 
-npm install simple-cron
+npm install rk-cron
 
 
 
